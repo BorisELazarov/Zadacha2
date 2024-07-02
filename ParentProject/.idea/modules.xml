@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Child1/Child1.iml" filepath="$PROJECT_DIR$/Child1/Child1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Child2/Child2.iml" filepath="$PROJECT_DIR$/Child2/Child2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Child3/Child3.iml" filepath="$PROJECT_DIR$/Child3/Child3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ParentProject.iml" filepath="$PROJECT_DIR$/.idea/ParentProject.iml" />
+    </modules>
+  </component>
+</project>
